@@ -4,16 +4,16 @@ function PeopleList(){
   return (
     <div>
       <div>
-        <img src = "src/images/profile.jpeg"></img>
+        /*<img src = "src/images/profile.jpeg"/> */
         <h4>Person Name</h4>
       </div>
       <div>
-        <img src = "src/images/profile.jpeg"></img>
-        <h4>Person Name</h4>  <p>This is my tweet. I like tweeting and drinking coffee.</p>
+        /*<img src = "src/images/profile.jpeg"/> */
+        <h4>Person Name</h4>
       </div>
       <div>
-        <img src = "src/images/profile.jpeg"></img>
-        <h4>Person Name</h4>
+      /*  <img src = "src/images/profile.jpeg"/> */
+      <h4>Person Name</h4>
       </div>
     </div>
 

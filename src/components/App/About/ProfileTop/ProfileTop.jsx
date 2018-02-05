@@ -5,8 +5,8 @@ import React from "react";
 function ProfileTop(){
   return (
     <div>
-      /* <img src={coverPhoto}/> */
-      /* <img src={profilePhoto}/> */
+    /*<img src = "src/images/profile.jpeg"/> */
+    /*<img src = "src/images/cover.jpeg"/> */
       <h3>Profile Name</h3>
     </div>
 
