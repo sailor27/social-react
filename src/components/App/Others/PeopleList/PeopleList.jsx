@@ -4,16 +4,13 @@ function PeopleList(){
   return (
     <div>
       <div>
-        /*<img src = "src/images/profile.jpeg"/> */
-        <h4>Person Name</h4>
+        <h4>@MariahCarey ‏</h4>
       </div>
       <div>
-        /*<img src = "src/images/profile.jpeg"/> */
-        <h4>Person Name</h4>
+        <h4>@Beyonce</h4>
       </div>
       <div>
-      /*  <img src = "src/images/profile.jpeg"/> */
-      <h4>Person Name</h4>
+      <h4>@Real_CSS_Tricks</h4>
       </div>
     </div>
 
