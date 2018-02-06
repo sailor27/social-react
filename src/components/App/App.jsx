@@ -1,16 +1,19 @@
 import React from "react";
+import Main from "./Main/Main";
 import Nav from "./Nav/Nav";
-import About from "./About/About";
-import Feed from "./Feed/Feed";
-import Others from "./Others/Others";
-function App(){
-  return (
 
-    <div>
+function App(){
+  var wholeThingStyles = {
+    backgroundColor: '#FFFAFA',
+    margin: '0',
+    height: '100vh',
+    width: '100vw',
+    fontFamily: 'sans-serif'
+  };
+  return (
+    <div style={wholeThingStyles}>
       <Nav/>
-      <About/>
-      <Feed/>
-      <Others/>
+      <Main/>
     </div>
   );
 }
